@@ -100,9 +100,9 @@
     <object>objects\obj_building</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\rm_courtyard</room>
     <room>rooms\rm_wilderness</room>
     <room>rooms\rm_house1</room>
-    <room>rooms\rm_courtyard</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
