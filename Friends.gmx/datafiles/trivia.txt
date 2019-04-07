@@ -1,0 +1,101 @@
+miscellaneous,intermediate,
+Which actor appeared on the show?
+Bruce Willis,Will Smith,Mark Wahlberg,Ryan Reynolds,
+
+miscellaneous,easy,
+What is the name of the Theme song?
+I'll Be There For You,You Got A Friend In Me,A Friend Is A Friend Till The End,Thank You For Being A Friend,
+
+miscellaneous,hard,
+Who is the artist of the Theme song?
+The Rembrandts,Oasis,Smash Mouth,Soundgarden,
+
+advanced,phoebe,
+Which actor plays Phoebe?
+Lisa Kudrow,Courtney Cox,Jane Sibbett,Jessica Hecht,
+
+miscellaneous,easy,
+Which character has a twin?
+Phoebe,Ross,Chandler,Monica,
+
+miscellaneous,intermediate,
+Which character doesn't have any siblings?
+Chandler,Ross,Monica,Rachel,
+
+easy,ross,
+Who is Ross's sibling?
+Monica,Chandler,Rachel,Carol,
+
+easy,ross,
+What is ross's occupation?
+paleontologist,dentist,actor,accountant,
+
+easy,joey,
+What is Joey's occupation?
+actor,paleontologist,dentist,accountant,
+
+miscellaneous,intermediate,
+Who is Richard?
+Monica's ex-boyfriend,Rachel's ex-boyfriend,Ross's brother,Ross's dad,
+
+intermediate,5,
+Who was last to find out about Monica and Chandler?
+Ross,Joey,Phoebe,Rachel,
+
+advanced,phoebe,5,
+Who does Phoebe's obstetrician love?
+Fonzie,Joey,Brad Pitt,Tigger,
+
+advanced,joey,5,
+Why does Joey break up with Katie?
+She punches him too hard,she cheated on him,she ate of his food,she didn't show up to his play,
+
+advanced,ross,5,
+What is the name of the retiring handy man who worked in the building ross moved into?
+Howard,Glen,Dan,Ben,
+
+intermediate,joey,5,
+How did Joey find out about Monica and Chandler?
+Monica's eyelash curler,walks in on them,Ross tells him,He finds a picture,
+
+easy,monica,chandler,4,
+Where do Monica and Chandler first get together?
+London,New York,California,Japan,
+
+intermediate,ross,
+How many times does Ross get divorced?
+Three,Two,One,Four,
+
+easy,ross,
+What is the name of Ross's first wife?
+Carol,Susan,Rachel,Emily,
+
+easy,ross,1,
+Why does Ross's first marriage fail?
+Wife is a lesbian,Got married drunk in Vegas,Ross said the wrong name at the wedding,Ross cheated,
+
+intermediate,ross,4,
+Why did Ross's second marriage fail?
+Ross said the wrong name at the wedding,Wife is a lesbian,Wife cheated,Ross cheated,
+
+intermediate,rachel,1,
+Who did Rachel leave at the alter?
+Barry,Ross,Joey,Chad,
+
+miscellaneous,easy,rachel,ross,8,
+What is the name of Rachel and Ross's child?
+Emma,Ben,Ruth,Chris,
+
+miscellaneous,easy,ross,
+What is the name of Ross's child?
+Ben,Emma,Ruth,Chris,
+
+advanced,ross,5,
+What does Ross keep yelling as he's trying to get his couch up the stairs?
+Pivot!,Lift!,No!,Move!,
+
+miscellaneous,intermediate,
+Which actor never appeared on the show?
+Jim Carry,Brad Pitt,George Clooney,Robin Williams,
+
+END
